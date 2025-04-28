@@ -5,7 +5,7 @@ Memprediksi Gesture Tangan Dalam Permainan Batu Gunting Kertas
 
 ## 📚 Pengantar
 
-Proyek ini adalah aplikasi web yang mengintegrasikan model **RockPaperScissorsCNN** yang telah dilatih sebelumnya dalam bentuk file model **JSON** dan **BIN** untuk mengklasifikasikan gambar dari permainan Rock, Paper, Scissors. Proyek ini adalah Tugas 1 yang diberikan oleh Syanti Irviantina, S.Kom.,M.Kom .
+Proyek ini adalah aplikasi web yang mengintegrasikan model **RockPaperScissorsCNN** yang telah dilatih sebelumnya dalam bentuk file model **JSON** dan **BIN** untuk mengklasifikasikan gambar dari permainan Rock, Paper, Scissors. Proyek ini adalah Tugas 1 yang diberikan oleh Syanti Irviantina, S.Kom.,M.Kom.
 
 [Link Video Penjelasan & Demo](https://mikroskilacid-my.sharepoint.com/:f:/g/personal/derick_tjoa_students_mikroskil_ac_id/EgmoxHhm9LJLuBKJYhJfUSgBHTCEtoQWFbHQKGdaJ63WCw?e=dru44c)
 
