@@ -19,7 +19,7 @@ Kelompok : 1
 - Anggota 1 : Derick Tjoa (231110498)
   Menjelaskan code pembuatan model dan training model pada file train_xnn.ipynb, Menghubungkan model ke web
 - Anggota 2 : Justin Emerson Wijaya (231110357)
-  Menjelaskan code visualisasi dan validasi model pada file train_xnn.ipynb, Mengedit video, mempercantik halaman website
+  Menjelaskan code visualisasi dan validasi model pada file train_cnn.ipynb, Mengedit video, mempercantik halaman website
 - Anggota 3 : Daniel Pangihutan Siregar (231112256)
   Menjelaskan code import library dan pembuatan fungsi yang diperlukan serta code persiapaan data untuk model
 
