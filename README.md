@@ -2,7 +2,6 @@
 
 Memprediksi Gesture Tangan Dalam Permainan Batu Gunting Kertas
 
----
 
 ## 📚 Pengantar
 
@@ -92,4 +91,3 @@ my-project/
 - Model **RockPaperScissorsCNN** dikembangkan oleh [Alexandre Donciu-Julin](https://www.kaggle.com/models/alexandredj/rockpaperscissorscnn) dan dilisensikan di bawah **MIT License**.
 - Terima kasih kepada komunitas Kaggle atas menyediakan model dan sumber daya terbuka ini.
 
----
