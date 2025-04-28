@@ -58,7 +58,7 @@ Lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut tentang lisensi.
 🌐 Akses Secara Online
 Project telah tersedia secara online melalui GitHub Pages. Anda dapat mengaksesnya di:
 
-'https://dericktjoa.github.io/rock-paper-scissor'
+https://dericktjoa.github.io/rock-paper-scissor
 
 ---
 
