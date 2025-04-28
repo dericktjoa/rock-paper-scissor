@@ -50,9 +50,6 @@ Lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut tentang lisensi.
 2. **Buka di aplikasi web**:
    Setelah repositori berhasil di-clone, Anda dapat langsung membuka file index.html di browser Anda untuk melihat aplikasi web.
 
-3. **Jalankan aplikasi web**:
-   Jika aplikasi memerlukan server untuk dijalankan (misalnya menggunakan server statis atau back-end lain), pastikan untuk menjalankannya sesuai dengan pengaturan yang sudah ada di proyek. Jika tidak, cukup buka index.html untuk mengakses aplikasi.
-
 ---
 
 ## 🌐 Akses Secara Online
