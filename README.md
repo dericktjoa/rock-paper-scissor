@@ -21,7 +21,7 @@ Kelompok : 1
 - Anggota 2 : Justin Emerson Wijaya (231110357)
   Menjelaskan code visualisasi dan validasi model pada file train_cnn.ipynb, Mengedit video, mempercantik halaman website
 - Anggota 3 : Daniel Pangihutan Siregar (231112256)
-  Menjelaskan code import library dan pembuatan fungsi yang diperlukan serta code persiapaan data untuk model
+  Menjelaskan code import library dan pembuatan fungsi yang diperlukan serta code persiapaan data untuk model pada file train_cnn.ipynb
 
 ---
 
@@ -38,7 +38,7 @@ Lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut tentang lisensi.
 
 ---
 
-## ⚙️ Cara Menjalankan
+## ⚙️ Cara Menjalankan (Untuk Lokal)
 
 1. **Clone repositori**:
 
@@ -52,6 +52,13 @@ Lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut tentang lisensi.
 
 3. **Jalankan aplikasi web**:
    Jika aplikasi memerlukan server untuk dijalankan (misalnya menggunakan server statis atau back-end lain), pastikan untuk menjalankannya sesuai dengan pengaturan yang sudah ada di proyek. Jika tidak, cukup buka index.html untuk mengakses aplikasi.
+
+---
+
+🌐 Akses Secara Online
+Project telah tersedia secara online melalui GitHub Pages. Anda dapat mengaksesnya di:
+
+`https://dericktjoa.github.io/rock-paper-scissor`
 
 ---
 
