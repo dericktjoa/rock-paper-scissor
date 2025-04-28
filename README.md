@@ -62,7 +62,7 @@ Project telah tersedia secara online melalui GitHub Pages. Anda dapat mengaksesn
 ## 📄 Struktur Proyek
 
 ```
-my-project/
+rock-paper-scissor/
 ├── LICENSE                    # File lisensi
 ├── README.md                  # File ini
 ├── model_web/                 # Folder yang berisi model
