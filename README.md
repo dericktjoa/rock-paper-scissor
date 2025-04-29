@@ -76,7 +76,7 @@ rock-paper-scissor/
 │   ├── group1-shard8of10.bin  # File model dalam format BIN bagian ke 8
 │   ├── group1-shard9of10.bin  # File model dalam format BIN bagian ke 9
 │   ├── group1-shard10of10.bin # File model dalam format BIN bagian ke 10
-│   └── mode.json              # File model dalam format JSON
+│   └── model.json              # File model dalam format JSON
 ├── training_code/             # Folder untuk kode pelatihan model
 │   ├── train_cnn.ipynb        # File ipynb untuk training model
 ├── index.css                  # File CSS untuk styling
